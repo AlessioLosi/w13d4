@@ -13,8 +13,8 @@ public class Application {
         System.out.println("Hello World!");
         List<Prodotti> prodotti = Arrays.asList(
                 new Prodotti(9L, "Reputation", "Album", 120.0),
-                new Prodotti(2L, "GUTS", "Books", 120.0),
-                new Prodotti(4L, "Short n'sweet", "Album", 10.0),
+                new Prodotti(2L, "GUTS", "Books", 145.0),
+                new Prodotti(4L, "Short n'sweet", "Album", 22.0),
                 new Prodotti(7L, "The Story of us", "Books", 150.0),
                 new Prodotti(1L, "Lover", "Books", 50.0),
                 new Prodotti(1L, "Latte", "Baby", 70.0),
